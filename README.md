@@ -1,0 +1,1 @@
+# Remove-Theme-Customizer-Link-in-WP-Admin-Menu
